@@ -18,6 +18,8 @@ Welcome to the Awesome Web Development Resources repository! This is a community
 
 3. [David Walsh Blog](https://davidwalsh.name/) - A blog by David Walsh, a renowned web developer, featuring web development tips, tricks, and tutorials.
 
+## Advice
+
 ## Contribute
 
 Help us grow this list of valuable web development resources by contributing during Hacktoberfest! Fork this repository, add your favorite resources, and create a pull request. Please follow our [contribution guidelines](CONTRIBUTING.md) for details on how to contribute.
