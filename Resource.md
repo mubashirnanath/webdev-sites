@@ -10,6 +10,8 @@ Welcome to the Awesome Web Development Resources repository! This is a community
 
 3. [Smashing Magazine](https://www.smashingmagazine.com/) - A source for web designers and developers with articles, tutorials, and resources.
 
+4. [Coding Interview Questions](https://tkssharma.com/top-coding-interview-questions/) - A source for developers to improve their problem solving skill.
+
 ## Blogs
 
 1. [A List Apart](https://alistapart.com/) - Explore the design, development, and meaning of web content, with a special focus on web standards and best practices.
