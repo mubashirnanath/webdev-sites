@@ -9,6 +9,7 @@ Welcome to the Awesome Web Development Resources repository! This is a community
 2. [CSS-Tricks](https://css-tricks.com/) - A treasure trove of CSS tutorials, articles, and tricks.
 
 3. [Smashing Magazine](https://www.smashingmagazine.com/) - A source for web designers and developers with articles, tutorials, and resources.
+4. [Coding Interview Questions](https://tkssharma.com/top-coding-interview-questions/) - A source for developers to improve their problem solving skill.
 
 ## Blogs
 
